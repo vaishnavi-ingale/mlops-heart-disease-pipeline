@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+openpyxl
+ucimlrepo
+matplotlib
+seaborn
+scikit-learn
+mlflow
+fastapi
+uvicorn
+pytest

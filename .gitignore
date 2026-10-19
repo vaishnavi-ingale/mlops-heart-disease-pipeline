@@ -1,0 +1,14 @@
+# Python Environment files
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data and Models (Keep local, do not push massive dataset files to github)
+data/
+models/
+*.pkl
+*.h5
+
+# Environment configurations & credentials
+.env
